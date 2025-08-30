@@ -1,0 +1,67 @@
+codigo,nombre,prerequisitos
+IAI115,Introducción a la Informática,
+MAT115,Matemática I,
+MTE115,Métodos Experimentales,
+PRC115,Pre-Cálculo,
+PSI115,Psicología Social,
+TEE115,"Técnicas de Estudio, Lectura, Redaccción y Oratoria",
+FIR115,Física I,MAT115 MAT215 MTE115
+HSE115,Historia Social y Económica de El Salvador y Centroamérica,PSI115
+MSM115,Manejo de Software para Microcomputadoras,IAI115
+MAT215,Matemática II,MAT115
+PRN115,Programación I,IAI115
+FIR215,Física II,FIR115 MAT215
+FDE115,Fundamentos de Economía,HSE115 MAT215
+MAT315,Matemática III,MAT215
+PYE115,Probabilidad y Estadística,MAT215
+PRN215,Programación II,PRN115
+COS215,Comunicaciones II,COS115
+ESD115,Estructuras de Datos,PRN215
+FIR315,Física III,FIR215
+IGF115,Ingeniería de Sofware,DSI115 HDP115
+MAT415,Matemática IV,MAT315
+MEP115,Métodos Probabilísticos,PYE115
+PRN315,Programación III,PRN215
+AGR115,Algoritmos Gráficos,TSI115
+ACI115,Análisis de Costos Informáticos,ANF115
+ANS115,Análisis Numérico,MAT415 PRN115
+FTI115,Fundamentos de la Programación en Internet,ANS115 PRN315
+HDP115,Herramientas de Productividad,ESD115 MSM115
+MOP115,Métodos de Optimización,MEP115
+SDU115,Sistemas Digitales I,FIR315 PRN115
+SYP115,Sistemas y Procedimientos,PRN315
+ARC115,Arquitectura de Computadoras,ANS115 SDU115
+FBD115,Fundamentos de Base de Datos,TSI115
+IEC115,Ingeniería Económica,PYE115
+IIN115,Introducción a la Infografía,MOP115 TSI115
+IPI115,Introducción a la Programación en Internet,PRN315
+SIC115,Sistemas Contables,HDP115
+TDS115,Técnicas de Simulación,MOP115 TSI115
+TSI115,Teoría de Sistemas,SYP115
+CET115,Comercio Electrónico,DSI115 TPI115
+DSI115,Diseño de Sistemas I,SIC115 TSI115
+PAM115,Introducción a la programación de Aplicaciones Móviles,ARC115 PRN315
+MIP115,Microprogramación,ARC115
+PDD115,Programación 3D,ANS115 DSI215
+PDC115,Protocolos de Comunicaciones,COS115
+TAD115,Teoría Administrativa,SIC115
+ANF115,Análisis Financiero,IEC115 TAD115
+COS115,Comunicaciones I,MIP115
+DSI215,Diseño de Sistemas II,DSI115
+IBD115,Implementación de Bases de Datos,BAD115
+POO115,Programación Orientada a Objetos,ESD115
+SIF115,Seguridad Informática,COS115 DSI215 SIO115
+EBB115,Sistemas Embebidos I,ARC115 HDP115
+SIO115,Sistemas Operativos,MIP115
+TOO115,Tecnología Orientada a Objetos,PRN315
+BAD115,Bases de Datos,DSI215 SIO115
+LPR115,Legislación Profesional,
+RHU115,Recursos Humanos,TAD115
+SGI115,Sistemas de Información Gerencial,DSI215
+ACC115,Administración de Centros de Cómputo,BAD115 RHU115 SGI115
+API115,Administración de Proyectos Informáticos,ANF115 SGI115
+AUS115,Auditoría de Sistemas,SGI115
+CPR115,Consultoría Profesional,
+PDM115,Programación para Dispositivos Móviles,HDP115 PRN315
+SGG115,Sistemas de Información Geográficos,MOP115 TSI115
+TPI115,Técnicas de Programación Para Internet,ESD115 PRN315
